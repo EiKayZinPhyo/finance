@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677359964042",
+    "project_id": "finance-ad14e",
+    "storage_bucket": "finance-ad14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677359964042:android:5635c3b1e015d869b84273",
+        "android_client_info": {
+          "package_name": "com.example.personal_finance_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677359964042-gae6j51j9fu0m0anc0jsp6ukjvlhfifc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Ld_Dks7_DHWFStb0Y_wBL6dt6SSBqjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677359964042-gae6j51j9fu0m0anc0jsp6ukjvlhfifc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
